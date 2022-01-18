@@ -1,0 +1,8 @@
+﻿.flex-container{
+    display: flex;
+    height: 90vh;
+    max-width: 90vw;
+    justify-content: flex-end;
+    align-items: flex-end;
+    overflow-y: auto;
+}
